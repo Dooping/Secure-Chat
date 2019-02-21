@@ -3,4 +3,4 @@
 
 A secure messaging system for groups of users.
 
-Using **Java Cryptographic Extension** to ensure the properties: authentication, confidentiality, integrity and non-repudiation.
+Using **Java Cryptographic Extension** to ensure the properties: **authentication**, **confidentiality**, **integrity** and **non-repudiation**.
